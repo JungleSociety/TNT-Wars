@@ -30,6 +30,17 @@ public class Events {
 	
 	/*
 	
+	
+	THIS IS COMMENTED OUT BECAUSE IT WAS NEVER TANSFERED FROM THE OLD PLUGIN TO THE NEWLY DONE PLUGIN!!
+	THIS IS THE CODE FROM THE OLD ONE, IT WILL NOT WORK ON THIS PLUGIN.
+	ASK ON BUKKIT OR EMAIL ME @ junglesociety43@gmail.com FOR EXPLANATION OF CODE OR ANY QUESTIONS
+	
+	
+	
+	
+	
+	
+	
     @EventHandler
     public void onChestClick(PlayerInteractEvent e){
    	 if(tnt.getConfig().getBoolean("items_gui_enabled") == true){
