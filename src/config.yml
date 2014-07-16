@@ -1,0 +1,37 @@
+countdownbeforegame: 30
+minplayers: 4
+maxplayers: 8
+
+lobbyspawn:
+  world: world
+  x: 0
+  y: 0
+  z: 0
+  
+  
+items_gui_enabled: true
+item_for_gui_opener: 54
+items_in_gui:
+  - 46 64
+  - 331 64
+  - 356 64
+  - 76 64
+  - 77 64
+  - 404 64
+  - 152 64
+  - 69 64
+  - 29 64
+  - 33 64
+  - 1 64
+  - 45 64
+  - 4 64
+  - 70 64
+  - 23 64
+  - 139 64
+  - 85 64
+  - 259 64
+  - 314 1
+  - 315 1
+  - 316 1
+  - 317 1
+  - 278 1
